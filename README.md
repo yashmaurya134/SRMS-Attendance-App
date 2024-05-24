@@ -1,4 +1,4 @@
-# Android-Attendance-App
+# SRMS-Attendance-App
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
